@@ -7,7 +7,10 @@ const {body}= require("express-validator");
 const { register, login} = require("./controllers/auth.controller");
 const addressController = require("./controllers/address.controller");
 
-
+var corsOptions = {
+  origin: 'http://example.com',
+  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+}
 
 const app = express();
 
@@ -15,6 +18,7 @@ app.use(express.json());
 
 // /register
 app.post("/register",
+cors(corsOptions),
 body("email")
 .notEmpty()
     .isEmail()
@@ -48,6 +52,7 @@ body("birthday").notEmpty()
 
 //login
 app.post("/login",
+cors(corsOptions),
 body("email")
 .notEmpty()
     .isEmail(),
