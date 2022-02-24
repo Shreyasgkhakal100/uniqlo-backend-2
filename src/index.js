@@ -1,5 +1,5 @@
 const express = require("express");
-
+var cors = require('cors')
 const connect = require("./configs/db");
 const User=require("./models/user.model");
 const userController = require("./controllers/user.controller");
