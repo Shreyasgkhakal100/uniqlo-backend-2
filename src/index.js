@@ -67,11 +67,13 @@ app.use("/users", userController);
 
 
 
-app.listen(2445, async () => {
+const port = process.env.PORT
+
+app.listen(port, async () => {
   try {
     await connect();
   } catch (err) {
     console.error(err.message);
   }
-  console.log("listening on port 2445");
+  console.log(`Server started on port ${port}`);
 });
