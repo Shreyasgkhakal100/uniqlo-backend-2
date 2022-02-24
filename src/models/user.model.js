@@ -1,6 +1,8 @@
 const mongoose = require("mongoose");
 const bcrypt = require("bcryptjs");
 
+
+//User schema
 const userSchema = new mongoose.Schema({
     email: { type: String, required: true, unique: true },
     password: { type: String, required: true },
@@ -14,6 +16,7 @@ const userSchema = new mongoose.Schema({
   }
 );
 
+//pre save hook and hashing the password using bcryptjs
 userSchema.pre("save", function (next) {
   if (!this.isModified("password")) return next();
 
@@ -23,6 +26,7 @@ userSchema.pre("save", function (next) {
   return next();
 });
 
+//Check password while login 
 userSchema.methods.checkPassword = function (password) {
   return bcrypt.compareSync(password, this.password);
 };
