@@ -6,7 +6,7 @@ const authenticate = require("../middlewares/authenticate");
 const router = express.Router();
 
 
-router.get("", authenticate, async (req, res) => {
+router.get("", async (req, res) => {
   try {
     let users = await User.find().lean().exec();
     res.send(users);
