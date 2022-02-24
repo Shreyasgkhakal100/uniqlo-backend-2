@@ -4,7 +4,7 @@ const authenticate = require("../middlewares/authenticate");
 
 const Address = require("../models/address.model");
 
-const router = exporess.Router();
+const router = express.Router();
 
 router.post("/", authenticate, async (req, res) => {
     try{
@@ -30,7 +30,7 @@ router.post("/", authenticate, async (req, res) => {
 router.patch("/", authenticate, async (req, res) => {
     try{
 
-        const updatedAddress = await Address.findOneAndUpdate({_id: req.params.id, user_id: req.user._id}, req.body, {new: true});
+        const updatedAddress = await Address.findOneAndUpdate({_id: req.query.address_id, user_id: req.user._id}, req.body, {new: true});
         if(!updatedAddress){
             return res.status(404).send({msg: "Address not found"});
         }
