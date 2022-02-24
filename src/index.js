@@ -5,6 +5,7 @@ const User=require("./models/user.model");
 const userController = require("./controllers/user.controller");
 const {body}= require("express-validator");
 const { register, login} = require("./controllers/auth.controller");
+const addressController = require("./controllers/address.controller");
 
 
 
@@ -64,6 +65,8 @@ body("password")
 app.use("/users", userController);
 
 
+//address route
+app.use("/address", addressController);
 
 
 
