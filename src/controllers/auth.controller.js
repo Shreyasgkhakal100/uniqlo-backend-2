@@ -24,7 +24,7 @@ const register = async (req, res) => {
 
     // if  user  found then  error
     if (user)
-      return res.status(400).send({ message: "Please try another email" });
+      return res.status(400).send({ message: "Email alraeady exists" });
 
     // if user  not found then we will create the user with the email and the password 
     user = await User.create(req.body);
