@@ -8,7 +8,7 @@ const { register, login} = require("./controllers/auth.controller");
 const addressController = require("./controllers/address.controller");
 
 var corsOptions = {
-  origin: 'http://example.com',
+  origin: 'https://uniqlo-clone.herokuapp.com/',
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }
 
