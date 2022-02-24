@@ -19,7 +19,7 @@ var corsOptions = {
 const app = express();
 
 app.use(express.json());
-
+app.options('*', cors()) 
 // /register
 app.post("/register",
 cors(corsOptions),
