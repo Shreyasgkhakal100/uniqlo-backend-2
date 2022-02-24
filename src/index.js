@@ -1,5 +1,6 @@
 const express = require("express");
 require("dotenv").config();
+var cors = require("cors");
 
 const connect = require("./configs/db");
 const User=require("./models/user.model");
@@ -13,6 +14,7 @@ const addressController = require("./controllers/address.controller");
 const app = express();
 
 app.use(express.json());
+app.use(cors());
 
 // /register
 app.post("/register",
