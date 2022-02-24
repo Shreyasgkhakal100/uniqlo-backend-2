@@ -4,7 +4,7 @@ const authenticate = require("../middlewares/authenticate");
 
 const Address = require("../models/address.model");
 
-const router = exporess.Router();
+const router = express.Router();
 
 router.post("/", authenticate, async (req, res) => {
     try{
