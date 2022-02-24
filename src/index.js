@@ -1,5 +1,4 @@
 const express = require("express");
-require("dotenv").config();
 
 const connect = require("./configs/db");
 const User=require("./models/user.model");
@@ -62,19 +61,17 @@ body("password")
 })
 ,login)
 
-
 app.use("/users", userController);
 
 
 
 
-const port = process.env.PORT
 
-app.listen(port, async () => {
+app.listen(2445, async () => {
   try {
     await connect();
   } catch (err) {
     console.error(err.message);
   }
-  console.log(`Server started on port ${port}`);
+  console.log("listening on port 2445");
 });

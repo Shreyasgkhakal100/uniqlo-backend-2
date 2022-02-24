@@ -1,12 +1,12 @@
-module.exports = function (permitteduser) {
+module.exports = function (permittedRoles) {
     return function (req, res, next) {
       // first get the user from the req
       const user = req.user._id;
   
-      // check if user from req and user from body
+      // check if user has any of the permittedRoles
       let isPermitted = true;
       
-    if(req.user._id==permitteduser.user_id){
+    if(req.user._id==permittedRoles.user_id){
       isPermitted=true;
     }
   
