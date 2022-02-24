@@ -5,7 +5,7 @@ const authenticate = require("../middlewares/authenticate");
 const Address = require("../models/address.model");
 
 const router = express.Router();
-
+//Address create request
 router.post("/", authenticate, async (req, res) => {
     try{
         
@@ -26,7 +26,7 @@ router.post("/", authenticate, async (req, res) => {
         return res.status(500).send(err.message);
     }
 })
-
+//for updating address
 router.patch("/", authenticate, async (req, res) => {
     try{
 
@@ -40,6 +40,15 @@ router.patch("/", authenticate, async (req, res) => {
     }catch(err){
         return res.status(500).send(err.message);
     }
+})
+router.get("", async (req,res)=>{
+    try{
+    const address=await Address.find().lean().exec();
+    res.send(address);
+    }catch(err){
+        res.status(500).send(err.message)
+    }
+
 })
 
 module.exports = router;
