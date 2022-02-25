@@ -82,7 +82,7 @@ app.use("/users", userController);
 app.use("/address", addressController);
 
 //product controller
-app.use("/product", productController);
+app.use("/products", productController);
 
 const port = process.env.PORT
 
