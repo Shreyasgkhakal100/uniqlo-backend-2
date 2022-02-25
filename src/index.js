@@ -8,6 +8,7 @@ const userController = require("./controllers/user.controller");
 const {body}= require("express-validator");
 const { register, login} = require("./controllers/auth.controller");
 const addressController = require("./controllers/address.controller");
+const productController = require("./controllers/product.controller");
 
 
 //Avoiding cors policy error using npm cors
@@ -83,7 +84,8 @@ app.use("/users", userController);
 //address route
 app.use("/address", addressController);
 
-
+//product controller
+app.use("/products", productController);
 
 const port = process.env.PORT
 
