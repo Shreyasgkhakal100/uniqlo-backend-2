@@ -1,5 +1,7 @@
 const express = require("express");
-var cors = require('cors')
+require("dotenv").config();
+var cors = require("cors");
+
 const connect = require("./configs/db");
 const User=require("./models/user.model");
 const userController = require("./controllers/user.controller");
@@ -19,7 +21,8 @@ var corsOptions = {
 const app = express();
 
 app.use(express.json());
-app.options('*', cors()) 
+app.use(cors());
+
 // /register
 app.post("/register",
 cors(corsOptions),
