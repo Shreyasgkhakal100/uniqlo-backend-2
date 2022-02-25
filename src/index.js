@@ -9,6 +9,9 @@ const {body}= require("express-validator");
 const { register, login} = require("./controllers/auth.controller");
 const addressController = require("./controllers/address.controller");
 
+
+//Avoiding cors policy error using npm cors
+
 var corsOptions = {
   
   "origin": "*",
@@ -84,6 +87,7 @@ app.use("/address", addressController);
 
 const port = process.env.PORT
 
+//connecting port
 app.listen(port, async () => {
   try {
     await connect();
