@@ -4,15 +4,15 @@ const Product = require("../models/product.model")
 
 
 const router = express.Router()
-router.get("",async(req,res)=>{
-    try{
-        let products = await Product.find();
+// router.get("",async(req,res)=>{
+//     try{
+//         let products = await Product.find();
 
-      return res.status(200).send({products})
-    }catch(err){
-      return  res.status(500).send({status:"Failed",message:err.message})
-    }
-})
+//       return res.status(200).send({products})
+//     }catch(err){
+//       return  res.status(500).send({status:"Failed",message:err.message})
+//     }
+// })
 
 router.get("/:id",async(req,res)=>{
     try{
@@ -57,7 +57,18 @@ router.delete("/:id",async(req,res)=>{
 
 router.get("", async (req, res)=>{
   try{
-    const products = await Product.find({category: req.query.cat}).lean().exec();
+
+    const filter = {};
+    if(req.query.gender){
+      filter["gender"]=req.query.gender;
+    }
+
+    if(req.query.cat){
+      filter["category"]= req.query.cat;
+    }
+    // console.log(filter);
+
+    const products = await Product.find(filter).lean().exec();
 
     if(!products){
       return res.status(401).send("No Products Available Uder This Category");

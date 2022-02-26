@@ -1,0 +1,54 @@
+[
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444049/item/ingoods_03_444049.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  :  "S-3XL",
+    "name" :  "MEN Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+    "exc" :  "Exclusive Size Online Only",
+    "striked_price" : "Rs. 2,490.00",
+    "price" : 1990,
+    "description" : "",
+    "limited" : "Limited Offer Until Jan 20",
+    "star" : "⭐⭐⭐⭐(19)",
+    "category": "MEN-Main2"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444051/item/ingoods_03_444051.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  :  "S-3XL",
+    "name" :  "MEN Pile Lined Sweat Pants",
+    "exc" : "Exclusive Size Online Only",
+    "striked_price" :"Rs. 2,490.00",
+    "price" : 1990,
+    "description" : "",
+    "limited" : "Limited Offer Until Jan 20",
+    "star" : "⭐⭐⭐⭐(12)",
+    "category": "MEN-Main2"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441097/item/ingoods_31_441097.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  :  "S-3XL",
+    "name" : "MEN Pile Lined Fleece Set (Long Sleeve)", 
+    "exc" : "Exclusive Size Online Only",
+    "striked_price" :"Rs. 2,490.00",
+    "price" : 1990,
+    "description" : "",
+    "limited" :"Limited Offer Until Jan 20",
+    "star" : "⭐⭐⭐⭐(29)",
+    "category": "MEN-Main2"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439589/item/ingoods_68_439589.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  :  "S-3XL",
+    "name" :  "MEN Ultra Light Down Jacket (3D Cut)",
+    "exc" : "",
+    "striked_price" : "",
+   "price" :1990,
+   "desription" : "",
+   "limited" : "",
+   "star" : "⭐⭐⭐⭐(64)",
+    "category": "MEN-Main2"
+  }
+]
