@@ -1,581 +1,103 @@
 [
   {
-    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444049/item/ingoods_03_444049.jpg?width=1008&impolicy=quality_75",
-    "gender" : "MEN",
-    "size"  :  "S-3XL",
-    "name" :  "MEN Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
-    "exc" :  "Exclusive Size Online Only",
-    "striked_price" : "Rs. 2,490.00",
-    "price" : 1990,
-    "description" : "",
-    "limited" : "Limited Offer Until Jan 20",
-    "star" : "⭐⭐⭐⭐(19)",
-    "category": "MEN-Main2"
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439154/item/ingoods_32_439154.jpg?width=1008&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "XS",
+      "description": "WOMEN Extra Fine Merino Crew Neck Long Sleeve Cardigan",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 1990,
+      "category":"sweaters"
   },
   {
-    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444051/item/ingoods_03_444051.jpg?width=1008&impolicy=quality_75",
-    "gender" : "MEN",
-    "size"  :  "S-3XL",
-    "name" :  "MEN Pile Lined Sweat Pants",
-    "exc" : "Exclusive Size Online Only",
-    "striked_price" :"Rs. 2,490.00",
-    "price" : 1990,
-    "description" : "",
-    "limited" : "Limited Offer Until Jan 20",
-    "star" : "⭐⭐⭐⭐(12)",
-    "category": "MEN-Main2"
-  },
-  {
-    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441097/item/ingoods_31_441097.jpg?width=1008&impolicy=quality_75",
-    "gender" : "MEN",
-    "size"  :  "S-3XL",
-    "name" : "MEN Pile Lined Fleece Set (Long Sleeve)", 
-    "exc" : "Exclusive Size Online Only",
-    "striked_price" :"Rs. 2,490.00",
-    "price" : 1990,
-    "description" : "",
-    "limited" :"Limited Offer Until Jan 20",
-    "star" : "⭐⭐⭐⭐(29)",
-    "category": "MEN-Main2"
-  },
-  {
-    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439589/item/ingoods_68_439589.jpg?width=1008&impolicy=quality_75",
-    "gender" : "MEN",
-    "size"  :  "S-3XL",
-    "name" :  "MEN Ultra Light Down Jacket (3D Cut)",
-    "exc" : "",
-    "striked_price" : "",
-   "price" :1990,
-   "desription" : "",
-   "limited" : "",
-   "star" : "⭐⭐⭐⭐(64)",
-    "category": "MEN-Main2"
-  },
-  {
-    "image":
-      "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445293/item/ingoods_64_445293.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-3XL",
-    "description": "WOMEN Extra Stretch High Rise Denim Leggings Trousers",
-    "exclusive": "",
-    "price": 1990,
-    "category":"WWomen-Main1omen-main"
-  },
-  {
-    "image":
-      "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433604/item/ingoods_30_433604.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "XS-XXL",
-    "description": "WOMEN Rayon Long Sleeve Blouse",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 1990,
-    "category":"Women-Main1"
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448033/item/ingoods_69_448033.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "XS-XL",
+      "description": "WOMEN Washable Mock Neck Striped Sweater",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2490,
+      "category":"sweaters"
   },
 
   {
-    "image":
-      "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445292/item/ingoods_56_445292.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-3XL",
-    "description": "WOMEN Extra Stretch High Rise Denim Leggings Trousers",
-    "exclusive": "Exclusive Size Online Only\n New Arrivals",
-    "price": 1990,
-    "category":"Women-Main1"
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445190/item/ingoods_15_445190.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "S-XL",
+      "description": "WOMEN Washable Cotton Crew Neck Sweater",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2490,
+      "category":"sweaters"
   },
   {
-    "image":
-      "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445388/item/ingoods_12_445388.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "XS-XXL",
-    "description": "WOMEN Wirless Bra Active Square Neck",
-    "exclusive": "",
-    "price": 1990,
-    "category":"Women-Main1"
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445186/item/ingoods_53_445186.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "SL",
+      "description": "WOMEN Washable Mock Neck Sweater",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2490,
+      "category":"sweaters"
   },
   {
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-XXL",
-    "description": "WOMEN Ultra Light6 Down Jecket",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 4990,
-    "category":"Women-ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-3XL",
-    "description": "WOMEN Ultra Light Down Parka",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 5990,
-    "category":"Women-ultra-light-down"
-},
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445190/sub/goods_445190_sub9.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "S-3XL",
+      "description": "WOMEN Washable Mock Neck Sweater",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2490,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/439150/sub/goods_439150_sub9.jpg?width=1600&impolicy=quality_75",
+      "genear": "WOMEN",
+      "size": "S",
+      "description": "WOMEN Extra Fine Merino Crew Neck Long Sleeve Cardigan",
+     " exclusive": "Exclusive Size Online Only",
+     " price": 2490,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "XS-XXL",
+      "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2990,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445192/item/ingoods_12_445192.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "SX-XXL",
+      "description": "WOMEN UV Protection Crew Neck Cardigan",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 3990,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445192/item/ingoods_53_445192.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "SX-XL",
+      "description": "WOMEN UV Protection Crew Neck Green",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 3990,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/442884/item/ingoods_08_442884.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "S-3XL",
+      "description": "WOMEN Light  Dark Gray Fleece Long Sleeve Set",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 3990,
+      "category":"sweaters"
+  },
+  {
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/442884/item/ingoods_32_442884.jpg?width=1600&impolicy=quality_75",
+      "gender": "WOMEN",
+      "size": "SX-XXL",
+      "description": "WOMEN Fluffy Yarn Beige Fleece Full-Zip Jecket",
+      "exclusive": "Exclusive Size Online Only",
+      "price": 2990,
+      "category":"sweaters"
+  }
 
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-XXL",
-    "description": "WOMEN Ultra Light Down Vest",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 2990,
-    "category":"Women-ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S",
-    "description": "WOMEN Ultra Light Down Jecket",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 6990,
-    "category":"Women-ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-3XL",
-    "description": "WOMEN Ultra Light Down Relaxed Jecket",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 3990,
-    "category":"Women-ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S",
-    "description": "WOMEN Ultra Light Down Parka",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 2990,
-    "category":"Women-ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "S-3XL",
-    "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 2990,
-    "category":"ultra-light-down"
-},
-{
-    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
-    "gender": "WOMEN",
-    "size": "SX-XXL",
-    "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
-    "exclusive": "Exclusive Size Online Only",
-    "price": 3990,
-    "category":"Women-ultra-light-down"
-    
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light6 Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 4990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 5990,
-  "category":"Women-wirelessBra"
-},
-
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light Down Vest",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 6990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Relaxed Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "SX-XXL",
-  "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-wirelessBra"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light6 Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 4990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 5990,
-  "category":"Women-tops"
-},
-
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light Down Vest",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 6990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Relaxed Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "SX-XXL",
-  "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-tops"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light6 Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 4990,
-  "category":"Women-tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 5990,
-  "category":"Women-tops-confort"
-},
-
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light Down Vest",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 6990,
-  "category":"Women-tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Relaxed Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "SX-XXL",
-  "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-tops-confort"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light6 Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 4990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 5990,
-  "category":"Women-tops-airism"
-},
-
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN Ultra Light Down Vest",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 6990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light Down Relaxed Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S",
-  "description": "WOMEN Ultra Light Down Parka",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2990,
-  "category":"Women-tops-airism"
-},
-{
-  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "SX-XXL",
-  "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 3990,
-  "category":"Women-tops-airism"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439088/item/ingoods_34_439088.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XXL",
-  "description": "WOMEN Soft Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 1990,
-  "category":"Women-Main2"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439093/item/ingoods_09_439093.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-XXL",
-  "description": "WOMEN HEATTECH Pile Lined Sweat Trousers",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2490,
-  "category":"Women-Main2"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Ultra Light down Jecket",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 4990,
-  "category":"Women-Main2"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439532/item/ingoods_78_439532.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XL",
-  "description": "WOMEN HEATTECH Bra Sleeveless Top (Regular Warm) Thermal",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 1990,
-  "category":"Women-Main2"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441156/item/ingoods_56_441156.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XXL",
-  "description": "WOMEN Low Gauge Sweater",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 1990,
-  "category":"Women-Main3"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439161/item/ingoods_01_439161.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XL",
-  "description": "WOMEN HEATTECH Pile Lined Sweat Trousers",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2490,
-  "category":"Women-Main3"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/447916/item/ingoods_37_447916.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Cotton Wide Relax",
-  "exclusive": "Online Only",
-  "price": 2990,
-  "category":"Women-Main3"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/443915/item/ingoods_16_443915.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-L",
-  "description": "WOMEN Flannel Shirt (Long Sleeve)",
-  "exclusive": "Online Only",
-  "price": 2490,
-  "category":"Women-Main3"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448440/item/ingoods_63_448440.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XXL",
-  "description": "WOMEN Cotton Stand Collar Long Sleeve Shirt",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2490,
-  "category":"Women-Main4"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445292/item/ingoods_56_445292.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Extra Stretch High Rise Leggings Trousers",
-  "exclusive": "",
-  "price": 1990,
-  "category":"Women-Main4"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448223/item/ingoods_00_448223.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "XS-XXL",
-  "description": "WOMEN Raron Dolman 3/4 Sleeve Blouse",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 1990,
-  "category":"Women-Main4"
-},
-{
-  "image":
-    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439473/item/ingoods_34_439473.jpg?width=1008&impolicy=quality_75",
-  "gender": "WOMEN",
-  "size": "S-3XL",
-  "description": "WOMEN Cotton Jogger Trousers",
-  "exclusive": "Exclusive Size Online Only",
-  "price": 2490,
-  "category":"Women-Main4"
-}
 ]
