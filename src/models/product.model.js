@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+//product schema
 
 const productSchema = new mongoose.Schema(
   {
@@ -13,10 +14,13 @@ const productSchema = new mongoose.Schema(
     exclusive: { type: String, required: false },
     striked_price: { type: String, required: false },
     star: { type: String, required: false },
+    // category:{type:mongoose.Schema.Types.ObjectId,ref:"categories",required:false},
+    // section_id:{type:mongoose.Schema.Types.ObjectId,ref:"sections",required:false},
   },
   {
     versionKey: false,
     timestamps: true,
   }
 );
+
 module.exports =mongoose.model("product",productSchema)

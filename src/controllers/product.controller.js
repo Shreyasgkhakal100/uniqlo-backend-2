@@ -1,28 +1,22 @@
 const express = require("express");
 const Product = require("../models/product.model")
 
+const router = express.Router()
 
+//Controllers for products
 
 const router = express.Router()
-// router.get("",async(req,res)=>{
-//     try{
-//         let products = await Product.find();
 
-//       return res.status(200).send({products})
+
+// router.get("/:id",async(req,res)=>{
+//     try{
+//         let product = await Product.findById(req.params.id)
+//     return    res.status(200).send({product})
+
 //     }catch(err){
-//       return  res.status(500).send({status:"Failed",message:err.message})
+//      return   res.status(500).send({status:"Failed",message:err.message})
 //     }
 // })
-
-router.get("/:id",async(req,res)=>{
-    try{
-        let product = await Product.findById(req.params.id)
-    return    res.status(200).send({product})
-
-    }catch(err){
-     return   res.status(500).send({status:"Failed",message:err.message})
-    }
-})
 
 router.post("",async(req,res)=>{
     try{
@@ -56,6 +50,8 @@ router.delete("/:id",async(req,res)=>{
 })
 
 router.get("", async (req, res)=>{
+  
+  
   try{
 
     const filter = {};
@@ -69,6 +65,7 @@ router.get("", async (req, res)=>{
     // console.log(filter);
 
     const products = await Product.find(filter).lean().exec();
+    const products = await Product.find({category: req.query.cat}).lean().exec();
 
     if(!products){
       return res.status(401).send("No Products Available Uder This Category");
@@ -80,5 +77,30 @@ router.get("", async (req, res)=>{
     return res.status(500).send(err.message)
   }
 })
+
+
+// router.get("", async (req, res)=>{
+  
+//   try{
+//     const page = req.query.page || 1;
+    
+//     const size = req.query.size || 10;
+//     const query = {category: req.query.cat};
+//     const products = await Product.find() 
+//     .skip((page - 1) * size) 
+//     .limit(size)
+//     .lean()
+//     .exec();
+
+//     if(!products){
+//       return res.status(401).send("No Products Available Uder This Category");
+//     }
+
+//     return res.status(200).send({products});
+
+//   }catch(err){
+//     return res.status(500).send(err.message)
+//   }
+// })
 
 module.exports = router;

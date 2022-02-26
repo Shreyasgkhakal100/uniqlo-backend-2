@@ -1,14 +1,16 @@
 const express = require("express");
 require("dotenv").config();
 var cors = require("cors");
-
+const {body}= require("express-validator");
 const connect = require("./configs/db");
 const User=require("./models/user.model");
 const userController = require("./controllers/user.controller");
-const {body}= require("express-validator");
+
 const { register, login} = require("./controllers/auth.controller");
 const addressController = require("./controllers/address.controller");
 const productController = require("./controllers/product.controller");
+const sectionController=require("./controllers/section.controller");
+const categoryController=require("./controllers/category.controller");
 
 
 //Avoiding cors policy error using npm cors
@@ -86,6 +88,9 @@ app.use("/address", addressController);
 
 //product controller
 app.use("/products", productController);
+//section controller reference
+app.use("/sections",sectionController);
+app.use("/categories",categoryController);
 
 const port = process.env.PORT
 
