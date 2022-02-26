@@ -6,7 +6,7 @@
       "description": "WOMEN Extra Fine Merino Crew Neck Long Sleeve Cardigan",
       "exclusive": "Exclusive Size Online Only",
       "price": 1990,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448033/item/ingoods_69_448033.jpg?width=1600&impolicy=quality_75",
@@ -15,7 +15,7 @@
       "description": "WOMEN Washable Mock Neck Striped Sweater",
       "exclusive": "Exclusive Size Online Only",
       "price": 2490,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
 
   {
@@ -25,7 +25,7 @@
       "description": "WOMEN Washable Cotton Crew Neck Sweater",
       "exclusive": "Exclusive Size Online Only",
       "price": 2490,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445186/item/ingoods_53_445186.jpg?width=1600&impolicy=quality_75",
@@ -34,7 +34,7 @@
       "description": "WOMEN Washable Mock Neck Sweater",
       "exclusive": "Exclusive Size Online Only",
       "price": 2490,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445190/sub/goods_445190_sub9.jpg?width=1600&impolicy=quality_75",
@@ -43,7 +43,7 @@
       "description": "WOMEN Washable Mock Neck Sweater",
       "exclusive": "Exclusive Size Online Only",
       "price": 2490,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/439150/sub/goods_439150_sub9.jpg?width=1600&impolicy=quality_75",
@@ -52,7 +52,7 @@
       "description": "WOMEN Extra Fine Merino Crew Neck Long Sleeve Cardigan",
      " exclusive": "Exclusive Size Online Only",
      " price": 2490,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
@@ -61,7 +61,7 @@
       "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
       "exclusive": "Exclusive Size Online Only",
       "price": 2990,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445192/item/ingoods_12_445192.jpg?width=1600&impolicy=quality_75",
@@ -70,7 +70,7 @@
       "description": "WOMEN UV Protection Crew Neck Cardigan",
       "exclusive": "Exclusive Size Online Only",
       "price": 3990,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445192/item/ingoods_53_445192.jpg?width=1600&impolicy=quality_75",
@@ -79,7 +79,7 @@
       "description": "WOMEN UV Protection Crew Neck Green",
       "exclusive": "Exclusive Size Online Only",
       "price": 3990,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/442884/item/ingoods_08_442884.jpg?width=1600&impolicy=quality_75",
@@ -88,7 +88,7 @@
       "description": "WOMEN Light  Dark Gray Fleece Long Sleeve Set",
       "exclusive": "Exclusive Size Online Only",
       "price": 3990,
-      "category":"sweaters"
+      "category":"Women-sweaters"
   },
   {
       "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/442884/item/ingoods_32_442884.jpg?width=1600&impolicy=quality_75",
@@ -97,7 +97,80 @@
       "description": "WOMEN Fluffy Yarn Beige Fleece Full-Zip Jecket",
       "exclusive": "Exclusive Size Online Only",
       "price": 2990,
-      "category":"sweaters"
-  }
+      "category":"Women-sweaters"
+  },
+  {
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S-XXL",
+    "description": "WOMEN Ultra Light6 Down Jecket",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 4990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439704/item/ingoods_71_439704.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S-3XL",
+    "description": "WOMEN Ultra Light Down Parka",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 5990,
+    "category":"Women-roomShoes"
+},
+
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/429452/item/ingoods_09_429452.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S-XXL",
+    "description": "WOMEN Ultra Light Down Vest",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 2990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/443932/item/goods_09_443932.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S",
+    "description": "WOMEN Ultra Light Down Jecket",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 6990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S-3XL",
+    "description": "WOMEN Ultra Light Down Relaxed Jecket",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 3990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/429454/item/goods_07_429454.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S",
+    "description": "WOMEN Ultra Light Down Parka",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 2990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "S-3XL",
+    "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 2990,
+    "category":"Women-roomShoes"
+},
+{
+    "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439138/item/ingoods_12_439138.jpg?width=1008&impolicy=quality_75",
+    "gender": "WOMEN",
+    "size": "SX-XXL",
+    "description": "WOMEN Fluffy Yarn Fleece Full-Zip Jecket",
+    "exclusive": "Exclusive Size Online Only",
+    "price": 3990,
+    "category":"Women-roomShoes"
+}
 
 ]
