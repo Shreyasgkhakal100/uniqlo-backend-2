@@ -457,5 +457,45 @@
   "exclusive": "Exclusive Size Online Only",
   "price": 3990,
   "category":"Women-tops-airism"
+},
+{
+  "image":
+    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439088/item/ingoods_34_439088.jpg?width=1008&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "XS-XXL",
+  "description": "WOMEN Soft Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990,
+  "category":"Women-Main2"
+},
+{
+  "image":
+    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439093/item/ingoods_09_439093.jpg?width=1008&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-XXL",
+  "description": "WOMEN HEATTECH Pile Lined Sweat Trousers",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 2490,
+  "category":"Women-Main2"
+},
+{
+  "image":
+    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439702/item/ingoods_74_439702.jpg?width=1008&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-3XL",
+  "description": "WOMEN Ultra Light down Jecket",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 4990,
+  "category":"Women-Main2"
+},
+{
+  "image":
+    "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439532/item/ingoods_78_439532.jpg?width=1008&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "XS-XL",
+  "description": "WOMEN HEATTECH Bra Sleeveless Top (Regular Warm) Thermal",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990,
+  "category":"Women-Main2"
 }
 ]
