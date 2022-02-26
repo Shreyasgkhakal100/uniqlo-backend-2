@@ -318,6 +318,105 @@
   "exclusive": "Exclusive Size Online Only",
   "price": 3990,
   "category":"Women-outherwear"
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/446503/item/ingoods_12_446503.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-XXL",
+  "description": "WOMEN AIRism UV Protection Soft Leggings",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/446503/item/ingoods_67_446503.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-3XL",
+  "description": "WOMEN Ultra Light Down Parka",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990,
+  "category":"Women-leggings"
+  
+},
+
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433741/item/ingoods_11_433741.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-XXL",
+  "description": "WOMEN Extra Stretch High Rise Leggings Trousers",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 2990,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439241/item/ingoods_18_439241.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S",
+  "description": "WOMEN Ultra Light Down Jecket",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1490,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439241/item/ingoods_01_439241.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S",
+  "description": "WOMEN Ultra Light Down Jecket",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 2490,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439707/item/ingoods_56_439707.jpg?width=1008&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-3XL",
+  "description": "WOMEN Extra Stretch High Rise Leggings Trousers",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439241/item/ingoods_34_439241.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-3XL",
+  "description": "WOMEN Extra Stretch High Rise Leggings Trousers",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 2990,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/439241/item/ingoods_54_439241.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S",
+  "description": "WOMEN Ultra Light Down Parka",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1490,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433741/item/ingoods_57_433741.jpg?width=1600&impolicy=quality_75",
+  "gender": "WOMEN",
+  "size": "S-3XL",
+  "description": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 2990,
+  "category":"Women-leggings"
+  
+},
+{
+  "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433741/item/ingoods_19_433741.jpg?width=1600&impolicy=quality_75",
+  "gendar": "WOMEN",
+  "size": "SX-XXL",
+  "description": "WOMEN Extra Stretch High Rise Leggings Trousers",
+  "exclusive": "Exclusive Size Online Only",
+  "price": 1990
 }
 
 ]
