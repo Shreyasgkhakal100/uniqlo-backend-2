@@ -57,7 +57,17 @@ router.delete("/:id",async(req,res)=>{
 
 router.get("", async (req, res)=>{
   try{
-    const products = await Product.find({category: req.query.cat}).lean().exec();
+
+    const filter = {};
+    if(req.query.gender){
+      filter.gender=req.query.gender;
+    }
+
+    if(req.query.cat){
+      filter.category= req.query.cat;
+    }
+
+    const products = await Product.find(filter).lean().exec();
 
     if(!products){
       return res.status(401).send("No Products Available Uder This Category");

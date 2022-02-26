@@ -1,0 +1,38 @@
+[
+  {
+      "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445041/item/ingoods_30_445041.jpg?width=1008&impolicy=quality_75",
+      "gender" : "MEN",
+      "size"  : "S-3XL",
+      "name" : "MEN Coach Jacket",
+      "description" : "Exclusive Size Online Only,New Arrivals",
+      "price" : 3990,
+      "category": "MEN-Main1"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/446217/item/ingoods_00_446217.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  : "S-XXL",
+    "name" : "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+    "description" : "",
+    "price" : 1990,
+      "category": "MEN-Main1"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448383/item/ingoods_65_448383.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  : "S-3XL",
+    "name" : "MEN Hickory Oversized Stand Collar Long Sleeve Shirt",
+    "description" : "Exclusive Size Online Only",
+    "price" : 2490,
+      "category": "MEN-Main1"
+  },
+  {
+    "image" : "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444586/item/ingoods_67_444586.jpg?width=1008&impolicy=quality_75",
+    "gender" : "MEN",
+    "size"  : "28INCH-40INCH",
+    "name" : "MEN Regular Fit Straight Jeans",
+    "description" : "Exclusive Size Online Only,Limited Store",
+    "price" : 2990,
+      "category": "MEN-Main1"
+  }
+]
