@@ -24,3 +24,22 @@ https://github.com/Shreyasgkhakal100/uniqlo-backend-2.git
 4. Express JS
 5. DB collections
 6. Mongoose
+
+About Website :
+
+Landing page
+
+![Screenshot (51)](https://miro.medium.com/max/3786/1*VWWyKuzBCGh2ipERuP4d_Q.png)
+
+Signup
+
+![Screenshot (55)](https://miro.medium.com/max/875/1*NW0hgxzqK31Qebv2MNqkTQ.png)
+
+Products page
+
+![Screenshot (56)](https://miro.medium.com/max/875/1*D4GW0TdEhANt9J4vUOvVBw.png)
+
+
+Sections page
+
+![Screenshot (58)](https://miro.medium.com/max/875/1*OjQzHmVFRNe43byIqf-jPg.png)
