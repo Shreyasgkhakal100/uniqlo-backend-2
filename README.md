@@ -9,6 +9,9 @@ https://github.com/alokkumar-dev/uniqlo-clone-2.git
 Backend Repo Link :
 https://github.com/Shreyasgkhakal100/uniqlo-backend-2.git
 
+Blog link : 
+https://medium.com/@hgauba4/how-did-our-team-build-the-uniqlo-clone-2-0-5f9afef9c6d0
+
 
 # Technology We Used :computer:
 > Tech Stack in Frontend:
